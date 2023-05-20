@@ -46,7 +46,7 @@ function Home() {
             Add task
             <div className="absolute w-full h-full rounded-2xl"></div>
           </button>
-        </div>
+        </div> 
       </form>
     </div>
   );
